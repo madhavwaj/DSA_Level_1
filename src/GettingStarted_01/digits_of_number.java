@@ -1,4 +1,4 @@
-package GettingStarted;
+package GettingStarted_01;
 
 import java.util.Scanner;
 public class digits_of_number {

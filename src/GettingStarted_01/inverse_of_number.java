@@ -1,4 +1,4 @@
-package GettingStarted;
+package GettingStarted_01;
 //Qustion 5. "Write a program that takes an integer as input and rearranges its digits such that
 // each digit in the original number is replaced by its position in the number.
 // The output should represent the new number formed by assigning the position of each digit

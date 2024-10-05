@@ -1,4 +1,4 @@
-package patterns;
+package patterns_02;
 
 import java.util.Scanner;
 

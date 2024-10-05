@@ -6,7 +6,7 @@
 //Marks between 61 and 70: "meets expectations"
 //Marks 60 or below: "below par"
 
-package GettingStarted;
+package GettingStarted_01;
 import java.util.Scanner;
 public class Grading_System {
     public static void main(String[] args) {
