@@ -45,3 +45,5 @@ public class q19 {
         }
     }
 }
+
+//code ends here
