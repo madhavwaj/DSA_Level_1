@@ -20,3 +20,4 @@ public class GCD_AND_LCM {
         System.out.println(lcm);
     }
 }
+//code ends here
