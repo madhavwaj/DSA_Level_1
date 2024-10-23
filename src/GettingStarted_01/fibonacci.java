@@ -1,3 +1,4 @@
+//code starts here
 package GettingStarted_01;
 
 import java.util.Scanner;
